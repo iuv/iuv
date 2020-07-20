@@ -6,8 +6,8 @@ _  /  __>  <  __>  <         __ |/ / _(__  )        _  /  / /_/ / __ |/ /
 /_/   /_/|_|  /_/|_|         _____/  /____/         /_/   \__,_/  _____/  
                                                                           
 ```
-- My blog is https://jianpage.com
-- A small website https://jisuye.com
+- My blog is <a href="https://jianpage.com" target="_blank">jianpage.com</a>
+- A small website <a href="https://jisuye.com" target="_blank">jisuye.com</a>
 <!--
 **iuv/iuv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
